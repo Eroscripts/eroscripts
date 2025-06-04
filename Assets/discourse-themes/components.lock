@@ -1,0 +1,207 @@
+Density Toggle: https://github.com/discourse/density-toggle.git
+  All themes sans Minima
+DiscoTOC: https://github.com/discourse/DiscoTOC.git
+  All themes sans Minima
+  Minimum trust level to create TOC
+  - 2
+Donation Footer: https://github.com/Eroscripts/Donation-footer.git
+  All themes sans Minima
+Expand Fully: https://github.com/Eroscripts/expand-fully
+  Full width themes only
+Full width: https://github.com/discourse/discourse-full-width-component.git
+  Fully Theme, Video Site Mode, Video Wide Mode
+Guest Gate: https://github.com/VaperinaDEV/discourse-guest-gate-theme-component.git
+  All themes
+  Gate show only once
+    - true
+  Use gate buttons
+    - true
+  Custom gate enabled
+    - true
+  Custom gate image
+    - dark mode favicon
+  guest_gate.title
+    - ""
+  custom_gate.big_text
+    - "Warning! 18+ Only"
+  custom_gate.little_text
+    - "This is an Adult Toy Community that has a specific interest in IoT and porn sync technology. By dismissing this modal or signing up or logging in you agree that you are 18+ "
+Heatmap Generator: https://github.com/Eroscripts/discourse-funscript-heatmap.git
+  All themes sans Minima
+Node-name: https://github.com/Eviepayne/discourse-node-name-theme.git
+  All themes
+Scroll to Top: https://github.com/davidkingham/Scroll-to-Top.git
+  All themes
+Sidebar Theme Toggle: https://github.com/discourse/discourse-sidebar-theme-toggle.git
+  All themes
+Topic List Previews - Standard: https://github.com/paviliondev/discourse-tc-topic-list-previews.git
+  All themes sans Minima
+  Topic list tiles topic lists
+    - latest
+    - new
+    - unread
+    - top
+    - tag
+    - suggested
+    - agenda
+    - activity-topics
+    - activity-portfolio
+    - latest-mobile
+    - new-mobile
+    - unread-mobile
+    - top-mobile
+    - tag-mobile
+    - suggested-mobile
+    - agenda-mobile
+    - activity-topics-mobile
+    - activity-portfolio-mobile
+  Topic list thumbnails topic lists
+    + bookmarks
+  Topic List thumbnails categories
+    + Free Scripts
+    + Paid Scripts
+    + Incomplete Scripts
+    + Script Collections
+    + Scripts
+    + Game Mod
+    + Script Requests
+  Topic list excerpts topic lists
+    - latest
+    - new
+    - unread
+    - top
+    - tag
+    - suggested
+    - agenda
+    - activity-topics
+    - activity-portfolio
+    - latest-mobile
+    - new-mobile
+    - unread-mobile
+    - top-mobile
+    - tag-mobile
+    - suggested-mobile
+    - agenda-mobile
+    - activity-topics-mobile
+    - activity-portfolio-mobile
+  Topic list actions topic lists
+    - latest
+    - new
+    - unread
+    - top
+    - tag
+    - suggested
+    - agenda
+    - activity-topics
+    - activity-portfolio
+    - latest-mobile
+    - new-mobile
+    - unread-mobile
+    - top-mobile
+    - tag-mobile
+    - suggested-mobile
+    - agenda-mobile
+    - activity-topics-mobile
+    - activity-portfolio-mobile
+  Topic list portfolio filter type
+    + category
+  Topic list portfolio filter parameter
+    + scripts
+  Topic list Default thumbnail
+    + https://eroscripts-discourse.eroscripts.com/static/thumbnail.png
+  Topic list Default thumbnail fallback
+    + true
+Topic List Previews - Video Site Mode: https://github.com/paviliondev/discourse-tc-topic-list-previews.git
+  Fully themes sans Minima
+  Topic list tiles topic lists
+    - latest
+    - new
+    - unread
+    - top
+    - tag
+    - suggested
+    - agenda
+    - activity-topics
+    - activity-portfolio
+    - latest-mobile
+    - new-mobile
+    - unread-mobile
+    - top-mobile
+    - tag-mobile
+    - suggested-mobile
+    - agenda-mobile
+    - activity-topics-mobile
+    - activity-portfolio-mobile
+    + bookmarks
+  Topic list tiles categories
+    + Free Scripts
+    + Paid Scripts
+    + Incomplete Scripts
+    + Script Collections
+    + Scripts
+    + Game Mod
+    + Script Requests
+  Topic list thumbnails topic lists
+    + bookmarks
+  Topic List thumbnails categories
+    + Free Scripts
+    + Paid Scripts
+    + Incomplete Scripts
+    + Script Collections
+    + Scripts
+    + Game Mod
+    + Script Requests
+  Topic List actions categories
+    + Free Scripts
+    + Paid Scripts
+    + Incomplete Scripts
+    + Script Collections
+    + Scripts
+    + Script Requests
+  Topic list portfolio filter type
+    + category
+  Topic list portfolio filter parameter
+    + scripts
+  Topic list Default thumbnail
+    + https://eroscripts-discourse.eroscripts.com/static/thumbnail.png
+  Topic list Default thumbnail fallback
+    + true
+Topic List Previews - Video Wide Mode: https://github.com/paviliondev/discourse-tc-topic-list-previews.git
+  Fully themes sans Minima
+  Topic list tiles topic lists
+    + bookmarks
+  Topic list tiles categories
+    + Free Scripts
+    + Paid Scripts
+    + Incomplete Scripts
+    + Script Collections
+    + Scripts
+    + Game Mod
+    + Script Requests
+  Topic list thumbnails topic lists
+    + bookmarks
+  Topic List thumbnails categories
+    + Free Scripts
+    + Paid Scripts
+    + Incomplete Scripts
+    + Script Collections
+    + Scripts
+    + Game Mod
+    + Script Requests
+  Topic List actions categories
+    + Free Scripts
+    + Paid Scripts
+    + Incomplete Scripts
+    + Script Collections
+    + Scripts
+    + Script Requests
+  Topic list tiles wide format
+    + true
+  Topic list portfolio filter type
+    + category
+  Topic list portfolio filter parameter
+    + scripts
+  Topic list Default thumbnail
+    + https://eroscripts-discourse.eroscripts.com/static/thumbnail.png
+  Topic list Default thumbnail fallback
+    + true
