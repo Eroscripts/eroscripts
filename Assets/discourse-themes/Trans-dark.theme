@@ -1,0 +1,14 @@
+"Trans - Dark": {
+  "primary": "e0d2d9",
+  "secondary": "432d38",
+  "tertiary": "a8d9f6",
+  "quaternary": "e2bbfd",
+  "header_background": "2c202d",
+  "header_primary": "e0d2d9",
+  "highlight": "f9eb97",
+  "danger": "f49595",
+  "success": "c6f9ac",
+  "love": "f5ccff",
+  "selected": "4d3d5c",
+  "hover": "22161c"
+}

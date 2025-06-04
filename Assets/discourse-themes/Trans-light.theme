@@ -1,0 +1,14 @@
+"Trans - Light": {
+  "primary": "432d38",
+  "secondary": "e0d2d9",
+  "tertiary": "46afec",
+  "quaternary": "e2bbfd",
+  "header_background": "e0d2d9",
+  "header_primary": "2c202d",
+  "highlight": "f9eb97",
+  "danger": "f49595",
+  "success": "c6f9ac",
+  "love": "f5ccff",
+  "selected": "d2a6f2",
+  "hover": "f5f0f2"
+}
