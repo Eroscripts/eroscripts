@@ -1,7 +1,7 @@
 ! Title: Eroscripts Filter
 ! Description: Blocks the ad header for Eroscripts
-! Version: 2025.06.04
-! Updated: 4 Jun 2025
+! Version: 2026.04.13
+! Updated: 13 Apr 2026
 ! Author: VladTheImplier
 
 discuss.eroscripts.com###main-container > .ember-view
